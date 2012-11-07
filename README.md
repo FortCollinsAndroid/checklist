@@ -1,4 +1,6 @@
-checklist
+Checklist 
 =========
 
-Client for the www.checklist.com
+Android Client for the www.checklist.com
+
+Coming soon: information to get your development environment set up.
